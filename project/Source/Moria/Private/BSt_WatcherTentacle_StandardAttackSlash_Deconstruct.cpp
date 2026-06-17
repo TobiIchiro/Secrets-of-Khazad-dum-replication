@@ -1,0 +1,6 @@
+#include "BSt_WatcherTentacle_StandardAttackSlash_Deconstruct.h"
+
+UBSt_WatcherTentacle_StandardAttackSlash_Deconstruct::UBSt_WatcherTentacle_StandardAttackSlash_Deconstruct() {
+}
+
+

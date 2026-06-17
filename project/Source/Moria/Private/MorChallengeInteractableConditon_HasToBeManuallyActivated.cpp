@@ -1,0 +1,6 @@
+#include "MorChallengeInteractableConditon_HasToBeManuallyActivated.h"
+
+UMorChallengeInteractableConditon_HasToBeManuallyActivated::UMorChallengeInteractableConditon_HasToBeManuallyActivated() {
+}
+
+

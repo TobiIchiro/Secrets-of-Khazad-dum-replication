@@ -1,0 +1,6 @@
+#include "MorChallengeInteractableCondition_IsActivationRepeatable.h"
+
+UMorChallengeInteractableCondition_IsActivationRepeatable::UMorChallengeInteractableCondition_IsActivationRepeatable() {
+}
+
+

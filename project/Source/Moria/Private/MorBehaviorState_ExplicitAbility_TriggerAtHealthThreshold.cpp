@@ -1,0 +1,6 @@
+#include "MorBehaviorState_ExplicitAbility_TriggerAtHealthThreshold.h"
+
+UMorBehaviorState_ExplicitAbility_TriggerAtHealthThreshold::UMorBehaviorState_ExplicitAbility_TriggerAtHealthThreshold() {
+}
+
+

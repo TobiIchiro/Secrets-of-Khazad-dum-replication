@@ -1,0 +1,6 @@
+#include "BSt_WatcherTentacle_StandardAttackSlash_AttackMelee.h"
+
+UBSt_WatcherTentacle_StandardAttackSlash_AttackMelee::UBSt_WatcherTentacle_StandardAttackSlash_AttackMelee() {
+}
+
+
