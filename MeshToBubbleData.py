@@ -113,5 +113,5 @@ def static_meshes_to_bubble_data(bubble_data_path: str, map_name: str):
 # ── Uso ──────────────────────────────────────────────────────────────────────
 static_meshes_to_bubble_data(
     bubble_data_path = "/Game/Tech/Data/Bubbles/GameWorldCatalog/BD_BB_Cloudyhead_Hall_A",
-    map_name         = "BB_Cloudyhead_Hall_A"
+    map_name         = "BB_Cloudyhead_Hall_A_BD_Placement"
 )
