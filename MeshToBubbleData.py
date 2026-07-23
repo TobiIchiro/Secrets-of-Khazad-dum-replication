@@ -112,6 +112,6 @@ def static_meshes_to_bubble_data(bubble_data_path: str, map_name: str):
 
 # ── Uso ──────────────────────────────────────────────────────────────────────
 static_meshes_to_bubble_data(
-    bubble_data_path = "/Game/Tech/Data/Bubbles/GameWorldCatalog/BD_BB_TelcharForge",
-    map_name         = "BB_TelcharForge_BD_Placement"
+    bubble_data_path = "/Game/Tech/Data/Bubbles/GameWorldCatalog/BD_BB_DwarvenWorkshops",
+    map_name         = "BB_DwarvenWorkshops_BD_Placement"
 )
